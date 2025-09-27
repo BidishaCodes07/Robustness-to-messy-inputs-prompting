@@ -1,0 +1,99 @@
+{ "question": "Who wrote 'The Great Gatsby'?", "gold_answer": "F. Scott Fitzgerald" }
+
+{ "question": "Which play features Lady Macbeth?", "gold_answer": "Macbeth" }
+
+{ "question": "What is the term for a 14-line poem?", "gold_answer": "Sonnet" }
+
+{ "question": "Who created Sherlock Holmes?", "gold_answer": "Arthur Conan Doyle" }
+
+{ "question": "Which novel begins with 'Call me Ishmael'?", "gold_answer": "Moby-Dick" }
+
+{ "question": "Who wrote 'Pride and Prejudice'?", "gold_answer": "Jane Austen" }
+
+{ "question": "What is the pen name of Samuel Clemens?", "gold_answer": "Mark Twain" }
+
+{ "question": "Which epic poem features Achilles?", "gold_answer": "The Iliad" }
+
+{ "question": "Who is the author of '1984'?", "gold_answer": "George Orwell" }
+
+{ "question": "What is the genre of 'Dracula'?", "gold_answer": "Gothic" }
+
+{ "question": "Who wrote 'The Waste Land'?", "gold_answer": "T. S. Eliot" }
+
+{ "question": "Which Shakespeare play has a jealous Moor?", "gold_answer": "Othello" }
+
+{ "question": "Who wrote 'The Catcher in the Rye'?", "gold_answer": "J. D. Salinger" }
+
+{ "question": "What is the term for a play's list of characters?", "gold_answer": "Dramatis personae" }
+
+{ "question": "Who wrote 'Crime and Punishment'?", "gold_answer": "Dostoevsky" }
+
+{ "question": "Which novel features Atticus Finch?", "gold_answer": "To Kill a Mockingbird" }
+
+{ "question": "Who wrote 'The Divine Comedy'?", "gold_answer": "Dante" }
+
+{ "question": "What is the term for a story within a story?", "gold_answer": "Frame narrative" }
+
+{ "question": "Who wrote 'Brave New World'?", "gold_answer": "Aldous Huxley" }
+
+{ "question": "Which author created Hercule Poirot?", "gold_answer": "Agatha Christie" }
+
+{ "question": "What is the term for a Japanese poem of 17 syllables?", "gold_answer": "Haiku" }
+
+{ "question": "Who wrote 'The Old Man and the Sea'?", "gold_answer": "Ernest Hemingway" }
+
+{ "question": "Which novel features Big Brother?", "gold_answer": "1984" }
+
+{ "question": "Who wrote 'The Picture of Dorian Gray'?", "gold_answer": "Oscar Wilde" }
+
+{ "question": "What is the term for a recurring theme in literature?", "gold_answer": "Motif" }
+
+{ "question": "Who directed 'Jurassic Park'?", "gold_answer": "Steven Spielberg" }
+
+{ "question": "Which band released 'Abbey Road'?", "gold_answer": "The Beatles" }
+
+{ "question": "Who played Iron Man in the MCU?", "gold_answer": "Robert Downey Jr." }
+
+{ "question": "What is the name of Mario's brother?", "gold_answer": "Luigi" }
+
+{ "question": "Which TV show features Walter White?", "gold_answer": "Breaking Bad" }
+
+{ "question": "Who created Batman?", "gold_answer": "Bob Kane" }
+
+{ "question": "Which film won Best Picture in 1994?", "gold_answer": "Forrest Gump" }
+
+{ "question": "Who sang 'Thriller'?", "gold_answer": "Michael Jackson" }
+
+{ "question": "What is the name of Link's sword?", "gold_answer": "Master Sword" }
+
+{ "question": "Which comic features the Joker?", "gold_answer": "Batman" }
+
+{ "question": "Who directed 'Inception'?", "gold_answer": "Christopher Nolan" }
+
+{ "question": "Which game features Pikachu?", "gold_answer": "Pokémon" }
+
+{ "question": "Who played Hermione Granger?", "gold_answer": "Emma Watson" }
+
+{ "question": "Which band released 'Bohemian Rhapsody'?", "gold_answer": "Queen" }
+
+{ "question": "What is the name of Sonic's sidekick?", "gold_answer": "Tails" }
+
+{ "question": "Who created Spider-Man?", "gold_answer": "Stan Lee" }
+
+{ "question": "Which film features the DeLorean?", "gold_answer": "Back to the Future" }
+
+{ "question": "Who sang 'Like a Virgin'?", "gold_answer": "Madonna" }
+
+{ "question": "Which TV show features Eleven?", "gold_answer": "Stranger Things" }
+
+{ "question": "Who directed 'Pulp Fiction'?", "gold_answer": "Quentin Tarantino" }
+
+{ "question": "Which game series features Master Chief?", "gold_answer": "Halo" }
+
+{ "question": "Who played Jack Sparrow?", "gold_answer": "Johnny Depp" }
+
+{ "question": "Which comic features Magneto?", "gold_answer": "X-Men" }
+
+{ "question": "Who sang 'Purple Rain'?", "gold_answer": "Prince" }
+
+{ "question": "Which film features the Millennium Falcon?", "gold_answer": "Star Wars" }
