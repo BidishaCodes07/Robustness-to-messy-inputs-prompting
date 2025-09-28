@@ -1,0 +1,97 @@
+item_id,condition,baseline_prompt,intervention_prompt,answer_key
+Q1,L1,"Question: What is the capital of Maharashtra, India? Give a one-word answer.","System policy: Answer ONLY in ENGLISH. If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: ONE WORD ONLY. No extra words, no punctuation beyond what is requested.
+
+Question: What is the capital of Maharashtra, India? Give a one-word answer.",Mumbai
+Q1,L2,प्रश्न: महाराष्ट्र की राजधानी क्या है? एक शब्द में उत्तर दें।,"System policy: Answer ONLY in HINDI (देवनागरी). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: केवल एक शब्द। No extra words, no punctuation beyond what is requested.
+
+प्रश्न: महाराष्ट्र की राजधानी क्या है? एक शब्द में उत्तर दें।",Mumbai
+Q1,L3,Question: Maharashtra ki rajdhani kya hai? One-word answer do.,"System policy: Answer ONLY in HINGLISH (रोमन). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: ONE WORD ONLY. No extra words, no punctuation beyond what is requested.
+
+Question: Maharashtra ki rajdhani kya hai? One-word answer do.",Mumbai
+Q1,CS,"Question (English), answer in Hindi: What is the capital of Maharashtra? उत्तर केवल एक शब्द में दें।","System policy: Answer ONLY in TARGET LANGUAGE SPECIFIED IN PROMPT (follow exactly). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: If asked in Hindi, answer in Hindi (one word). No extra words, no punctuation beyond what is requested.
+
+Question (English), answer in Hindi: What is the capital of Maharashtra? उत्तर केवल एक शब्द में दें।",Mumbai
+Q2,L1,Instruction: Convert 2.5 hours to minutes. Answer with an integer only.,"System policy: Answer ONLY in ENGLISH. If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: INTEGER ONLY. No extra words, no punctuation beyond what is requested.
+
+Instruction: Convert 2.5 hours to minutes. Answer with an integer only.",150
+Q2,L2,निर्देश: 2.5 घंटे को मिनटों में बदलें। केवल पूर्णांक में उत्तर दें।,"System policy: Answer ONLY in HINDI (देवनागरी). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: केवल पूर्णांक। No extra words, no punctuation beyond what is requested.
+
+निर्देश: 2.5 घंटे को मिनटों में बदलें। केवल पूर्णांक में उत्तर दें।",150
+Q2,L3,Instruction: 2.5 ghante ko minutes mein badlo. Sirf integer mein jawab do.,"System policy: Answer ONLY in HINGLISH (रोमन). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: INTEGER ONLY. No extra words, no punctuation beyond what is requested.
+
+Instruction: 2.5 ghante ko minutes mein badlo. Sirf integer mein jawab do.",150
+Q2,CS,Instruction: 2.5 hours ko minutes mein badlo aur English mein integer likho.,"System policy: Answer ONLY in TARGET LANGUAGE SPECIFIED IN PROMPT (follow exactly). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: English integer only. No extra words, no punctuation beyond what is requested.
+
+Instruction: 2.5 hours ko minutes mein badlo aur English mein integer likho.",150
+Q3,L1,Fact check: True or False — Water boils at 100°C at sea level. Answer 'True' or 'False'.,"System policy: Answer ONLY in ENGLISH. If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: Answer EXACTLY 'True' or 'False'. No extra words, no punctuation beyond what is requested.
+
+Fact check: True or False — Water boils at 100°C at sea level. Answer 'True' or 'False'.",True
+Q3,L2,तथ्य जाँच: सत्य या असत्य — समुंद्र तल पर पानी 100°C पर उबलता है। 'True' या 'False' में उत्तर दें।,"System policy: Answer ONLY in HINDI (देवनागरी). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: उत्तर EXACTLY 'True' या 'False'. No extra words, no punctuation beyond what is requested.
+
+तथ्य जाँच: सत्य या असत्य — समुंद्र तल पर पानी 100°C पर उबलता है। 'True' या 'False' में उत्तर दें।",True
+Q3,L3,Fact check: Sahi ya galat — Samundar tal par paani 100°C par ubalta hai. Answer 'True' or 'False'.,"System policy: Answer ONLY in HINGLISH (रोमन). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: EXACT 'True' ya 'False'. No extra words, no punctuation beyond what is requested.
+
+Fact check: Sahi ya galat — Samundar tal par paani 100°C par ubalta hai. Answer 'True' or 'False'.",True
+Q3,CS,Fact check English mein: Paani 100°C par ubalta hai sea level par. उत्तर 'True' या 'False' लिखें।,"System policy: Answer ONLY in TARGET LANGUAGE SPECIFIED IN PROMPT (follow exactly). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: EXACT 'True' or 'False'. No extra words, no punctuation beyond what is requested.
+
+Fact check English mein: Paani 100°C par ubalta hai sea level par. उत्तर 'True' या 'False' लिखें।",True
+Q4,L1,Short reasoning: Is 17 a prime number? Answer 'Yes' or 'No' and give one short reason (≤10 words).,"System policy: Answer ONLY in ENGLISH. If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: Format: <Yes/No>: <reason ≤10 words>. No extra words, no punctuation beyond what is requested.
+
+Short reasoning: Is 17 a prime number? Answer 'Yes' or 'No' and give one short reason (≤10 words).",Yes
+Q4,L2,संक्षिप्त तर्क: क्या 17 एक अभाज्य संख्या है? 'Yes' या 'No' में उत्तर दें और 10 शब्दों से कम कारण दें।,"System policy: Answer ONLY in HINDI (देवनागरी). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: रूप: <Yes/No>: <कारण ≤10 शब्द>. No extra words, no punctuation beyond what is requested.
+
+संक्षिप्त तर्क: क्या 17 एक अभाज्य संख्या है? 'Yes' या 'No' में उत्तर दें और 10 शब्दों से कम कारण दें।",Yes
+Q4,L3,Short reasoning: 17 prime number hai? 'Yes' ya 'No' + ek short reason (≤10 words).,"System policy: Answer ONLY in HINGLISH (रोमन). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: Format: <Yes/No>: <reason ≤10 words>. No extra words, no punctuation beyond what is requested.
+
+Short reasoning: 17 prime number hai? 'Yes' ya 'No' + ek short reason (≤10 words).",Yes
+Q4,CS,Short reasoning: 17 prime number hai? उत्तर English mein 'Yes/No' + ek short reason (≤10 words).,"System policy: Answer ONLY in TARGET LANGUAGE SPECIFIED IN PROMPT (follow exactly). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: English 'Yes/No' + short reason. No extra words, no punctuation beyond what is requested.
+
+Short reasoning: 17 prime number hai? उत्तर English mein 'Yes/No' + ek short reason (≤10 words).",Yes
+Q5,L1,Unit conversion: Convert 300 Kelvin to Celsius. Reply with a number (one decimal).,"System policy: Answer ONLY in ENGLISH. If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: NUMBER ONLY with one decimal (e.g., 26.9). No extra words, no punctuation beyond what is requested.
+
+Unit conversion: Convert 300 Kelvin to Celsius. Reply with a number (one decimal).",26.9
+Q5,L2,इकाई परिवर्तन: 300 केल्विन को सेल्सियस में बदलें। एक संख्या (एक दशमलव) में उत्तर दें।,"System policy: Answer ONLY in HINDI (देवनागरी). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: केवल संख्या एक दशमलव के साथ (उदा., 26.9). No extra words, no punctuation beyond what is requested.
+
+इकाई परिवर्तन: 300 केल्विन को सेल्सियस में बदलें। एक संख्या (एक दशमलव) में उत्तर दें।",26.9
+Q5,L3,Unit conversion: 300 Kelvin ko Celsius mein badlo. One decimal number do.,"System policy: Answer ONLY in HINGLISH (रोमन). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: NUMBER ONLY with one decimal. No extra words, no punctuation beyond what is requested.
+
+Unit conversion: 300 Kelvin ko Celsius mein badlo. One decimal number do.",26.9
+Q5,CS,Unit conversion: 300 Kelvin ko Celsius mein badlo. Reply English number (one decimal).,"System policy: Answer ONLY in TARGET LANGUAGE SPECIFIED IN PROMPT (follow exactly). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: English number, one decimal. No extra words, no punctuation beyond what is requested.
+
+Unit conversion: 300 Kelvin ko Celsius mein badlo. Reply English number (one decimal).",26.9
+Q6,L1,"Instruction: Sort the words alphabetically and output a comma-separated list: mango, apple, banana","System policy: Answer ONLY in ENGLISH. If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: Comma-separated list, lowercase English words. No extra words, no punctuation beyond what is requested.
+
+Instruction: Sort the words alphabetically and output a comma-separated list: mango, apple, banana","apple, banana, mango"
+Q6,L2,"निर्देश: शब्दों को वर्णानुक्रम में क्रमित करें और कॉमा से अलग सूची दें: आम, सेब, केला","System policy: Answer ONLY in HINDI (देवनागरी). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: कॉमा से अलग सूची, लोअरकेस अंग्रेज़ी शब्द स्वीकार्य। No extra words, no punctuation beyond what is requested.
+
+निर्देश: शब्दों को वर्णानुक्रम में क्रमित करें और कॉमा से अलग सूची दें: आम, सेब, केला","apple, banana, mango"
+Q6,L3,"Instruction: Words ko alphabetical order mein sort karo: mango, apple, banana","System policy: Answer ONLY in HINGLISH (रोमन). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: Comma-separated list, lowercase English. No extra words, no punctuation beyond what is requested.
+
+Instruction: Words ko alphabetical order mein sort karo: mango, apple, banana","apple, banana, mango"
+Q6,CS,"Instruction: Shabdon ko alphabetical order mein sort karo: mango, apple, banana. Answer Hindi ya English acceptable, comma-separated list.","System policy: Answer ONLY in TARGET LANGUAGE SPECIFIED IN PROMPT (follow exactly). If unsure, reply exactly 'unsure'. Do NOT translate the question.
+Output-format guard: Comma-separated list. No extra words, no punctuation beyond what is requested.
+
+Instruction: Shabdon ko alphabetical order mein sort karo: mango, apple, banana. Answer Hindi ya English acceptable, comma-separated list.","apple, banana, mango"
