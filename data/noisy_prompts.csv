@@ -1,0 +1,301 @@
+id,noise_type,noise_level,prompt_in,gold_answer
+1,typo,light,Who wrote 'The Great Gatsby'?,F. Scott Fitzgerald
+1,typo,heavy,Who wrpge 'The Gteat Gatsby'?,F. Scott Fitzgerald
+1,spacing_punct,light,Who wrote 'The Great Gatsby',F. Scott Fitzgerald
+1,spacing_punct,heavy,Who wro te 'T he Great Gatsby'?,F. Scott Fitzgerald
+1,emoji,light,Who wrote 'The Great Ga😭tsby'?,F. Scott Fitzgerald
+1,emoji,heavy,Who wrote 'The 😊Gr😍eat Gatsby'?,F. Scott Fitzgerald
+2,typo,light,Whicj play features Lady Macbeth?,Macbeth
+2,typo,heavy,Which play feagures Lady kacbrth?,Macbeth
+2,spacing_punct,light,Which play featu res Lady Macbeth?,Macbeth
+2,spacing_punct,heavy,W hich play features Lady M acbeth?,Macbeth
+2,emoji,light,Which play😭 features Lady Macbeth?,Macbeth
+2,emoji,heavy,Which pl🤔🤔ay features Lady Macbeth?,Macbeth
+3,typo,light,Whzt is the term for a 14-line poem?,Sonnet
+3,typo,heavy,What iw thd term for a 14-line ooem?,Sonnet
+3,spacing_punct,light,What is the term for a 14-line poem,Sonnet
+3,spacing_punct,heavy,What is  the term for a 14-line poem,Sonnet
+3,emoji,light,What is the 😐term for a 14-line poem?,Sonnet
+3,emoji,heavy,What is the 😊term for 🤔a 14-line poem?,Sonnet
+4,typo,light,Who creaged Sherlock Holmes?,Arthur Conan Doyle
+4,typo,heavy,Who vreated Sherlock jolmew?,Arthur Conan Doyle
+4,spacing_punct,light,Who created Sherlock Holmes,Arthur Conan Doyle
+4,spacing_punct,heavy,Who created Sherloc k Holmes,Arthur Conan Doyle
+4,emoji,light,Who create😍d Sherlock Holmes?,Arthur Conan Doyle
+4,emoji,heavy,Who created Sherlock Holm😶es😭?,Arthur Conan Doyle
+5,typo,light,Which novrl begins with 'Call me Ishmael'?,Moby-Dick
+5,typo,heavy,Which npvel begins with 'Call md Idhmael'?,Moby-Dick
+5,spacing_punct,light,Which novel begins with 'Call me Ishmael',Moby-Dick
+5,spacing_punct,heavy,Which novel begins with 'Call me Ishmael',Moby-Dick
+5,emoji,light,Which novel begins with 'Call me 😍Ishmael'?,Moby-Dick
+5,emoji,heavy,Which nove😭l be😭gins with 'Call me Ishmael'?,Moby-Dick
+6,typo,light,Who wrote 'Ptide and Prejudice'?,Jane Austen
+6,typo,heavy,Who wrote 'Ptide and Prejudice'?,Jane Austen
+6,spacing_punct,light,Wh o wrote 'Pride and Prejudice'?,Jane Austen
+6,spacing_punct,heavy,Who wrote 'Pride and Prejud ice',Jane Austen
+6,emoji,light,Who wrote 'Pride and Prej😊udice'?,Jane Austen
+6,emoji,heavy,Who🙂 wrote 'Pride and Prejud🤔ice'?,Jane Austen
+7,typo,light,What is the pen name pf Samuel Clemens?,Mark Twain
+7,typo,heavy,What is the pen name od Samuel Clenens?,Mark Twain
+7,spacing_punct,light,What is the pen name of S amuel Clemens?,Mark Twain
+7,spacing_punct,heavy,What is the  pen name of Samuel Clem ens?,Mark Twain
+7,emoji,light,What is the pen name of Samuel Clemens?😶,Mark Twain
+7,emoji,heavy,What is the pen name😐 of Samuel Clemens?😍,Mark Twain
+8,typo,light,Which epic poem featurew Achilles?,The Iliad
+8,typo,heavy,Which epic piem feayures Achioles?,The Iliad
+8,spacing_punct,light,Which epic poem features Achilles,The Iliad
+8,spacing_punct,heavy,Which epi c poem features Achilles,The Iliad
+8,emoji,light,Which epi😍c poem features Achilles?,The Iliad
+8,emoji,heavy,Which epic poem featur😶es Achilles🙂?,The Iliad
+9,typo,light,Who is the author of '1984'?,George Orwell
+9,typo,heavy,Who is tge authir of '1984'?,George Orwell
+9,spacing_punct,light,Who is the author of '1984',George Orwell
+9,spacing_punct,heavy,Wh o is the author of '1984',George Orwell
+9,emoji,light,Who is the author 🤔of '1984'?,George Orwell
+9,emoji,heavy,Who is🤔😍 the author of '1984'?,George Orwell
+10,typo,light,What is the genre of 'Dracila'?,Gothic
+10,typo,heavy,Whqt oa the genre of 'Dracula'?,Gothic
+10,spacing_punct,light,What is the genre of 'Dracula',Gothic
+10,spacing_punct,heavy,What is the genre   of 'Dracula'?,Gothic
+10,emoji,light,What is the genre of🙂 'Dracula'?,Gothic
+10,emoji,heavy,What is the g😍en😐re of 'Dracula'?,Gothic
+11,typo,light,Who wrote 'Thd Waste Land'?,T. S. Eliot
+11,typo,heavy,qho wrote 'Tje Waste Lahd'?,T. S. Eliot
+11,spacing_punct,light,Who wrote 'The Waste Land',T. S. Eliot
+11,spacing_punct,heavy,Who wrote ' The Waste Land',T. S. Eliot
+11,emoji,light,Who wrote 'The Waste Land'🙂?,T. S. Eliot
+11,emoji,heavy,Who wro🙂t😶e 'The Waste Land'?,T. S. Eliot
+12,typo,light,Which Shakespeare play has a jealoys Moor?,Othello
+12,typo,heavy,Which Shakespeare play has a jealoud kior?,Othello
+12,spacing_punct,light,Which Shakespeare play has a jealous Moor,Othello
+12,spacing_punct,heavy,Which Shakespeare play has a jealous Moor,Othello
+12,emoji,light,Which Shakespeare pl😍ay has a jealous Moor?,Othello
+12,emoji,heavy,Which S😶hakespeare play has a je🙂alous Moor?,Othello
+13,typo,light,Who wrote 'The Catcher in the Rye'?,J. D. Salinger
+13,typo,heavy,Who wrotr 'The datchee in the Rye'?,J. D. Salinger
+13,spacing_punct,light,Who wrote  'The Catcher in the Rye'?,J. D. Salinger
+13,spacing_punct,heavy,Who wrote 'The Catcher in  the Rye',J. D. Salinger
+13,emoji,light,Who wrote 'The Cat😭cher in the Rye'?,J. D. Salinger
+13,emoji,heavy,Wh😐o wrote 'The😊 Catcher in the Rye'?,J. D. Salinger
+14,typo,light,What is the term flr a play's list of characters?,Dramatis personae
+14,typo,heavy,What is the trrm for a plzy's list of characters?,Dramatis personae
+14,spacing_punct,light,What is the term for a play's list  of characters?,Dramatis personae
+14,spacing_punct,heavy,What is the term  for a play's  list of characters?,Dramatis personae
+14,emoji,light,What is the term for a play's list 😍of characters?,Dramatis personae
+14,emoji,heavy,What is the term for a p😍lay's list 😐of characters?,Dramatis personae
+15,typo,light,Who wrote 'Crime and Punishment'?,Dostoevsky
+15,typo,heavy,Who wrote 'Crime and Punishmdng'?,Dostoevsky
+15,spacing_punct,light,Who wrote 'Crime  and Punishment'?,Dostoevsky
+15,spacing_punct,heavy,Who wrote 'Crime and Pu nishment',Dostoevsky
+15,emoji,light,Who wrote 'Cri🤔me and Punishment'?,Dostoevsky
+15,emoji,heavy,Who wrote 'Crime and Pun😭i😍shment'?,Dostoevsky
+16,typo,light,Which novel features Attucus Finch?,To Kill a Mockingbird
+16,typo,heavy,Which novel feagured Ayticus Finch?,To Kill a Mockingbird
+16,spacing_punct,light,Which novel features Attic us Finch?,To Kill a Mockingbird
+16,spacing_punct,heavy,Which novel  feature s Atticus Finch?,To Kill a Mockingbird
+16,emoji,light,Wh😍ich novel features Atticus Finch?,To Kill a Mockingbird
+16,emoji,heavy,Which novel features Attic😍us Finch😶?,To Kill a Mockingbird
+17,typo,light,Who wrote 'The Divine xomedy'?,Dante
+17,typo,heavy,Who wrote 'ghe Duvinr Comedy'?,Dante
+17,spacing_punct,light,Who  wrote 'The Divine Comedy'?,Dante
+17,spacing_punct,heavy,Who w rote 'The Divine Comedy',Dante
+17,emoji,light,Who wrote 'The Divine Comedy'🙂?,Dante
+17,emoji,heavy,Who wrote 'The Divine C😍ome😍dy'?,Dante
+18,typo,light,What is thr term for a story within a story?,Frame narrative
+18,typo,heavy,Whzt is the term dor a story within a story?,Frame narrative
+18,spacing_punct,light,What is the term for a story within a  story?,Frame narrative
+18,spacing_punct,heavy,What is the term for a st ory with in a story?,Frame narrative
+18,emoji,light,What is the term for a story within a story😭?,Frame narrative
+18,emoji,heavy,What 😍is the term for a story within a sto😭ry?,Frame narrative
+19,typo,light,Who wrote 'Brave hew World'?,Aldous Huxley
+19,typo,heavy,sho wrote 'gravw New World'?,Aldous Huxley
+19,spacing_punct,light,Who wrote 'Bra ve New World'?,Aldous Huxley
+19,spacing_punct,heavy,Who wrote 'Brave N ew World',Aldous Huxley
+19,emoji,light,Who 🤔wrote 'Brave New World'?,Aldous Huxley
+19,emoji,heavy,Who wr😍ote 'Brave 😭New World'?,Aldous Huxley
+20,typo,light,Which author created Hercule Poirot?,Agatha Christie
+20,typo,heavy,Which authof created yerculw Poirot?,Agatha Christie
+20,spacing_punct,light,Which author created Hercule Poirot,Agatha Christie
+20,spacing_punct,heavy,Which author created Hercule Poirot,Agatha Christie
+20,emoji,light,Whi🤔ch author created Hercule Poirot?,Agatha Christie
+20,emoji,heavy,Which author created He😭rcule 😭Poirot?,Agatha Christie
+21,typo,light,Whst is the term for a Japanese poem of 17 syllables?,Haiku
+21,typo,heavy,What is the term for a uapanese ooem of 17 syllables?,Haiku
+21,spacing_punct,light,What is the term for a Japanese poem of 17 syllables,Haiku
+21,spacing_punct,heavy,What is the term for a Japanese po em of 17 syllables,Haiku
+21,emoji,light,What is the term for a Japanes🤔e poem of 17 syllables?,Haiku
+21,emoji,heavy,W😶hat is the term for a Jap😊anese poem of 17 syllables?,Haiku
+22,typo,light,Who wrote 'The pld Man and the Sea'?,Ernest Hemingway
+22,typo,heavy,Who wrote 'The Old Mab and the Sea'?,Ernest Hemingway
+22,spacing_punct,light,Who wrote 'T he Old Man and the Sea'?,Ernest Hemingway
+22,spacing_punct,heavy,Who wrote 'The Old Man and the S ea',Ernest Hemingway
+22,emoji,light,Who wrote 'The Old Man and the Sea'🙂?,Ernest Hemingway
+22,emoji,heavy,Who wr🤔ote '😭The Old Man and the Sea'?,Ernest Hemingway
+23,typo,light,Which novel features nig Brother?,1984
+23,typo,heavy,ehich nivwl features Big Brother?,1984
+23,spacing_punct,light,Which novel features Big Brother,1984
+23,spacing_punct,heavy,Whic h novel features Big  Brother?,1984
+23,emoji,light,Which novel features Big Brothe😶r?,1984
+23,emoji,heavy,Which novel feat😊ures Big 😐Brother?,1984
+24,typo,light,Who write 'The Picture of Dorian Gray'?,Oscar Wilde
+24,typo,heavy,Who wrote 'The Picture of Dorian Gray'?,Oscar Wilde
+24,spacing_punct,light,Who wrote 'The Picture of Dorian Gray',Oscar Wilde
+24,spacing_punct,heavy,Who wro te 'The Picture of Dorian Gr ay'?,Oscar Wilde
+24,emoji,light,Who wrote 'The Picture of Dorian 😍Gray'?,Oscar Wilde
+24,emoji,heavy,Who wrote 'The Pict🤔ure of Dorian Gray'😍?,Oscar Wilde
+25,typo,light,What is the term for a recurring theme in liyerature?,Motif
+25,typo,heavy,What ia the rerm for a recurring theme in liyerature?,Motif
+25,spacing_punct,light,What is the term fo r a recurring theme in literature?,Motif
+25,spacing_punct,heavy,What is the term for a recurring theme in literature,Motif
+25,emoji,light,Wh😐at is the term for a recurring theme in literature?,Motif
+25,emoji,heavy,😭What is the term for a 😭recurring theme in literature?,Motif
+26,typo,light,Who directed 'Jurassic Pafk'?,Steven Spielberg
+26,typo,heavy,Whl directed 'Jyfassic Park'?,Steven Spielberg
+26,spacing_punct,light,Who directed 'Jurassic Park',Steven Spielberg
+26,spacing_punct,heavy,Who directed 'Jurassic P ark '?,Steven Spielberg
+26,emoji,light,Who directed😶 'Jurassic Park'?,Steven Spielberg
+26,emoji,heavy,Who directed 'Jura😭s🙂sic Park'?,Steven Spielberg
+27,typo,light,Which band released 'Abbet Road'?,The Beatles
+27,typo,heavy,Which band releasrd 'sbbey Road'?,The Beatles
+27,spacing_punct,light,Which band released 'Abbey Road',The Beatles
+27,spacing_punct,heavy,Which b and released 'Abbey Road',The Beatles
+27,emoji,light,Wh🤔ich band released 'Abbey Road'?,The Beatles
+27,emoji,heavy,Which band released 'Abbey R😶oad😍'?,The Beatles
+28,typo,light,Who pkayed Iron Man in the MCU?,Robert Downey Jr.
+28,typo,heavy,Who played Ieon Man ib yhe MCU?,Robert Downey Jr.
+28,spacing_punct,light,Who played Iron Man in the MCU,Robert Downey Jr.
+28,spacing_punct,heavy,Who played Iron Man  in the  MCU?,Robert Downey Jr.
+28,emoji,light,Who played Iro😭n Man in the MCU?,Robert Downey Jr.
+28,emoji,heavy,Who playe🤔d Iron Man in t😭he MCU?,Robert Downey Jr.
+29,typo,light,What is the name of Mario's brother?,Luigi
+29,typo,heavy,What is tge namr of Mario's brother?,Luigi
+29,spacing_punct,light,What is the name of Mar io's brother?,Luigi
+29,spacing_punct,heavy,What is the name of Mar io's brother,Luigi
+29,emoji,light,What is the name of M😐ario's brother?,Luigi
+29,emoji,heavy,What is the na😊me of Mar😭io's brother?,Luigi
+30,typo,light,Which TV show features ealter White?,Breaking Bad
+30,typo,heavy,Which TV show features ealtwr Whote?,Breaking Bad
+30,spacing_punct,light,Which TV show features Walter White,Breaking Bad
+30,spacing_punct,heavy,Which TV show features Walter White,Breaking Bad
+30,emoji,light,Which TV sho😭w features Walter White?,Breaking Bad
+30,emoji,heavy,Which TV show features Wal🤔ter White😭?,Breaking Bad
+31,typo,light,Who crwated Batman?,Bob Kane
+31,typo,heavy,Who cfeated gatman?,Bob Kane
+31,spacing_punct,light,Who created Batman,Bob Kane
+31,spacing_punct,heavy,Who created Batman,Bob Kane
+31,emoji,light,Who created 🙂Batman?,Bob Kane
+31,emoji,heavy,Who🤔 created Batma😭n?,Bob Kane
+32,typo,light,Which film won Best Picture on 1994?,Forrest Gump
+32,typo,heavy,qhich film won Best Picture im 1994?,Forrest Gump
+32,spacing_punct,light,Which film won Best Picture in 1994,Forrest Gump
+32,spacing_punct,heavy,Which film  won Best Picture in 1 994?,Forrest Gump
+32,emoji,light,Which film won Best Picture in😍 1994?,Forrest Gump
+32,emoji,heavy,😊Which film won Best Picture in 🙂1994?,Forrest Gump
+33,typo,light,Who sang 'Thriller'?,Michael Jackson
+33,typo,heavy,Whl sanf 'Thriller'?,Michael Jackson
+33,spacing_punct,light,Who sang 'Th riller'?,Michael Jackson
+33,spacing_punct,heavy,Wh o sang 'Thriller',Michael Jackson
+33,emoji,light,Who sang 'Thriller'?🤔,Michael Jackson
+33,emoji,heavy,Who 🤔sang 'Thr😐iller'?,Michael Jackson
+34,typo,light,What is the name of Link's sword?,Master Sword
+34,typo,heavy,What is the namr of Link's swofd?,Master Sword
+34,spacing_punct,light,What is th e name of Link's sword?,Master Sword
+34,spacing_punct,heavy,What  is the name of Link's sword,Master Sword
+34,emoji,light,What is the nam🙂e of Link's sword?,Master Sword
+34,emoji,heavy,W😍hat is the nam😭e of Link's sword?,Master Sword
+35,typo,light,Whixh comic features the Joker?,Batman
+35,typo,heavy,Which comic festures yhe Jokwr?,Batman
+35,spacing_punct,light,Which comic features the  Joker?,Batman
+35,spacing_punct,heavy,Whic h comic fea tures the Joker?,Batman
+35,emoji,light,W😍hich comic features the Joker?,Batman
+35,emoji,heavy,Whic😍h comic features the 🤔Joker?,Batman
+36,typo,light,Whl directed 'Inception'?,Christopher Nolan
+36,typo,heavy,Who directed 'onceptipn'?,Christopher Nolan
+36,spacing_punct,light,Who directed 'Inception',Christopher Nolan
+36,spacing_punct,heavy,Who directed 'Incep tion',Christopher Nolan
+36,emoji,light,Who di😐rected 'Inception'?,Christopher Nolan
+36,emoji,heavy,W🙂😍ho directed 'Inception'?,Christopher Nolan
+37,typo,light,Wyich game features Pikachu?,Pokémon
+37,typo,heavy,Whkch game featutes likachu?,Pokémon
+37,spacing_punct,light,Which game featur es Pikachu?,Pokémon
+37,spacing_punct,heavy,Which game features  Pikachu,Pokémon
+37,emoji,light,Which game features Pikachu?😶,Pokémon
+37,emoji,heavy,Which game feat😭ures Pika😍chu?,Pokémon
+38,typo,light,Who played germione Granger?,Emma Watson
+38,typo,heavy,Who played Hermione Grqnher?,Emma Watson
+38,spacing_punct,light,Who played Hermione Granger,Emma Watson
+38,spacing_punct,heavy,Who played Hermione Grange r,Emma Watson
+38,emoji,light,Who played He😐rmione Granger?,Emma Watson
+38,emoji,heavy,Who pl😍ayed Hermione Grang😭er?,Emma Watson
+39,typo,light,Which band released 'Bohemian Rhapsody'?,Queen
+39,typo,heavy,Which bamd releasrd 'Bohemian Rhapsodu'?,Queen
+39,spacing_punct,light,Which band released 'Bohemian Rhapsody',Queen
+39,spacing_punct,heavy,Wh ich band released 'Bohemian Rhapsody',Queen
+39,emoji,light,Which b🙂and released 'Bohemian Rhapsody'?,Queen
+39,emoji,heavy,Which band releas😶ed 'Bohemian Rhapso😍dy'?,Queen
+40,typo,light,What ks the name of Sonic's sidekick?,Tails
+40,typo,heavy,What ks the name of Sonic's sidekick?,Tails
+40,spacing_punct,light,What is the name of Sonic's sidekick,Tails
+40,spacing_punct,heavy,What is t he name of Soni c's sidekick?,Tails
+40,emoji,light,W😍hat is the name of Sonic's sidekick?,Tails
+40,emoji,heavy,What 🤔is the name of Sonic's sidekick?😶,Tails
+41,typo,light,Whi created Spider-Man?,Stan Lee
+41,typo,heavy,Who crezted wpkder-Man?,Stan Lee
+41,spacing_punct,light,Who created Spider-Man,Stan Lee
+41,spacing_punct,heavy,Who  creat ed Spider-Man?,Stan Lee
+41,emoji,light,Who created Spider-M😍an?,Stan Lee
+41,emoji,heavy,Who 😊c🤔reated Spider-Man?,Stan Lee
+42,typo,light,Which film fwatures the DeLorean?,Back to the Future
+42,typo,heavy,Which film fwstured the DeLorean?,Back to the Future
+42,spacing_punct,light,Which film features the DeLore an?,Back to the Future
+42,spacing_punct,heavy,Which film features the DeLo rean,Back to the Future
+42,emoji,light,Which film features the DeLorean?😐,Back to the Future
+42,emoji,heavy,Whic🤔h film features the DeLorea😭n?,Back to the Future
+43,typo,light,Who samg 'Like a Virgin'?,Madonna
+43,typo,heavy,Who sang 'Like a Vifgin'?,Madonna
+43,spacing_punct,light,Who sang 'Like a Virg in'?,Madonna
+43,spacing_punct,heavy,Who sang 'Like a  Virgin',Madonna
+43,emoji,light,Who sa😐ng 'Like a Virgin'?,Madonna
+43,emoji,heavy,😶Who san😐g 'Like a Virgin'?,Madonna
+44,typo,light,Which TV show features Eleven?,Stranger Things
+44,typo,heavy,shich TV shos fdatures Eleven?,Stranger Things
+44,spacing_punct,light,Which TV show features Eleven,Stranger Things
+44,spacing_punct,heavy,Which TV sho w featur es Eleven?,Stranger Things
+44,emoji,light,Which😭 TV show features Eleven?,Stranger Things
+44,emoji,heavy,Which T🙂V show features😭 Eleven?,Stranger Things
+45,typo,light,Who directed 'Pull Fiction'?,Quentin Tarantino
+45,typo,heavy,Who directed 'Pulp Fuctuon'?,Quentin Tarantino
+45,spacing_punct,light,Who directed 'Pulp Fiction',Quentin Tarantino
+45,spacing_punct,heavy,Who  directed 'Pulp Fiction',Quentin Tarantino
+45,emoji,light,Who di😊rected 'Pulp Fiction'?,Quentin Tarantino
+45,emoji,heavy,Who directed 'Pulp😭🤔 Fiction'?,Quentin Tarantino
+46,typo,light,Which game series features Master Chief?,Halo
+46,typo,heavy,Whucj game series features Master vhief?,Halo
+46,spacing_punct,light,Which game series features  Master Chief?,Halo
+46,spacing_punct,heavy,Which game series features Master Chief,Halo
+46,emoji,light,Which game series featu😍res Master Chief?,Halo
+46,emoji,heavy,Which 😶game 🤔series features Master Chief?,Halo
+47,typo,light,Who played Jack Sparfow?,Johnny Depp
+47,typo,heavy,Who played hack Sparrow?,Johnny Depp
+47,spacing_punct,light,Who played Jack Sparrow,Johnny Depp
+47,spacing_punct,heavy,Who played Jack Sparrow,Johnny Depp
+47,emoji,light,W😊ho played Jack Sparrow?,Johnny Depp
+47,emoji,heavy,Who😊 playe😭d Jack Sparrow?,Johnny Depp
+48,typo,light,Which comic features Mahneto?,X-Men
+48,typo,heavy,Which comiv reayures Magneto?,X-Men
+48,spacing_punct,light,Which comic feat ures Magneto?,X-Men
+48,spacing_punct,heavy,Which comic features Magneto,X-Men
+48,emoji,light,Which comic 😍features Magneto?,X-Men
+48,emoji,heavy,Which 😍c😶omic features Magneto?,X-Men
+49,typo,light,Who sang 'lurple Rain'?,Prince
+49,typo,heavy,Who sang 'Purplr Rain'?,Prince
+49,spacing_punct,light,Who sang 'Purple Rain',Prince
+49,spacing_punct,heavy,Who sang 'P urple Ra in'?,Prince
+49,emoji,light,Who sang🙂 'Purple Rain'?,Prince
+49,emoji,heavy,Who san🤔g 🤔'Purple Rain'?,Prince
+50,typo,light,Which film features the Millennium dalcon?,Star Wars
+50,typo,heavy,Which film featufes the Millennium Falcpn?,Star Wars
+50,spacing_punct,light,Which film features the Millennium Falcon,Star Wars
+50,spacing_punct,heavy,Which film features the Mil lennium Falcon,Star Wars
+50,emoji,light,Which film features the🙂 Millennium Falcon?,Star Wars
+50,emoji,heavy,Which 😍film features the Millennium 😶Falcon?,Star Wars
